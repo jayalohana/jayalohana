@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jaya Lohana</h1>
 <h3 align="center">a curious computer science student venturing into new tech territories</h3>
 
-<image align=“right” alt=“Coding” width:”400” src “https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif” >
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayalohana&label=Profile%20views&color=0e75b6&style=flat" alt="jayalohana" /> </p>
