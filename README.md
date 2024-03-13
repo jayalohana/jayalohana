@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<br clear="all"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayalohana&label=Profile%20views&color=0e75b6&style=flat" alt="jayalohana" /> </p>
 
@@ -16,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fBvo9rXjkneZO-NwR5aqE7jQyYZ5Vtya/view?usp=sharing](https://drive.google.com/file/d/1fBvo9rXjkneZO-NwR5aqE7jQyYZ5Vtya/view?usp=sharing)
 
-- ⚡ Fun fact: **I know all Taylor Swift songs**
+- ⚡ Fun fact **i know all taylor swift songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,12 +45,7 @@
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-
-<br clear="all"/>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayalohana&show_icons=true&locale=en&layout=compact" alt="jayalohana" /></p>
-
-<br clear="all"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&locale=en" alt="jayalohana" /></p>
 
