@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **jaya.lohana24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fBvo9rXjkneZO-NwR5aqE7jQyYZ5Vtya/view?usp=sharing](https://drive.google.com/file/d/1fBvo9rXjkneZO-NwR5aqE7jQyYZ5Vtya/view?usp=sharing)
+- 📄 Check out my experiences: [Resume](https://drive.google.com/file/d/1fBvo9rXjkneZO-NwR5aqE7jQyYZ5Vtya/view?usp=sharing)
+
 
 - ⚡ Fun fact **i know all taylor swift songs**
 
