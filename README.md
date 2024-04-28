@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Notably**
 
-- 👨‍💻 All of my projects are available at [https://jayloh.dev/](https://jayloh.dev/)
+- 👨‍💻 All of my projects are available at [https://jayalohana.com/](https://jayalohana.com/)
 
 - 📫 How to reach me **jaya.lohana24@gmail.com**
 
