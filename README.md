@@ -48,11 +48,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayalohana&theme=default&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=jayalohana&theme=default&hide_border=true" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayalohana&layout=compact&hide_border=true" width="48%" />
 </p>
+
 
 ---
 
