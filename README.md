@@ -50,12 +50,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=jayalohana&hide_border=true" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=jayalohana&theme=transparent&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayalohana&layout=compact&hide_border=true" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayalohana&layout=compact&theme=transparent&hide_border=true"
+    height="150"
+  />
 </p>
 
 ---
