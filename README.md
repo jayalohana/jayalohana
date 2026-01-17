@@ -60,12 +60,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayalohana&layout=compact&theme=transparent&hide_border=true"
-    height="150"
-  />
-</p>
 
 ---
 
