@@ -6,8 +6,8 @@
 <h3 align="center">Computer Science student • Full-Stack Developer • UI/UX Enthusiast</h3>
 
 <p align="center">
-  <a href="https://jayalohana.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1fBvo9rXjkneZO-NwR5aqE7jQyYZ5Vtya/view" target="_blank">📄 Resume</a> •
+  <a href="https://jayalohana.com">🌐 Portfolio</a> •
+  <a href="https://drive.google.com/file/d/1fBvo9rXjkneZO-NwR5aqE7jQyYZ5Vtya/view">📄 Resume</a> •
   <a href="mailto:jaya.lohana24@gmail.com">📬 Contact</a>
 </p>
 
@@ -50,32 +50,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=jayalohana&theme=transparent&hide_border=true"
-    height="170"
-  />
-</p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jayalohana&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalohana&layout=compact&theme=transparent&hide_border=true)
+
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/jayalohana" target="_blank">
+  <a href="https://linkedin.com/in/jayalohana">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://codesandbox.io/u/jayalohana" target="_blank">
+  <a href="https://codesandbox.io/u/jayalohana">
     <img src="https://img.shields.io/badge/CodeSandbox-151515?style=flat&logo=codesandbox&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/jayaalohana" target="_blank">
+  <a href="https://www.instagram.com/jayaalohana">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/jayalohana" target="_blank">
+  <a href="https://leetcode.com/jayalohana">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
   </a>
 </p>
