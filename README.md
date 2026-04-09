@@ -30,7 +30,6 @@
 name: Jaya Lohana
 location: Toronto, ON
 education: Bachelor of Arts in Computer Science, York University
-graduation: April 2026
 interests:
   - full-stack development
   - interactive web apps
