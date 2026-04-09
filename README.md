@@ -13,13 +13,14 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&theme=transparent&hide_border=true&title_color=f5b5d3&text_color=c9d1d9&icon_color=f5b5d3&rank_icon=github" height="165" />
-  <img src="https://streak-stats.demolab.com?user=jayalohana&theme=transparent&hide_border=true&ring=f5b5d3&fire=f5b5d3&currStreakLabel=f5b5d3&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://streak-stats.demolab.com?user=jayalohana&theme=transparent&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayalohana&layout=compact&theme=transparent&hide_border=true&title_color=f5b5d3&text_color=c9d1d9" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayalohana&layout=compact&hide_border=true&theme=transparent" height="150" />
 </p>
+
 
 ---
 
